@@ -103,7 +103,7 @@
 	font-size: 14px;
 	font-weight: 700;
 	color: #2F3131;
-	margin-top: 5px;
+	margin-top: -2px;
 	margin-left: 20px;
 }
 
@@ -146,13 +146,278 @@
 
 .container2__telephone 
 {
-	position: absolute; left: 800px;
+	position: absolute; left: 750px;
 }
 
 .container2__telephone2 
 {
 	position: absolute; left: 950px;
 }
+
+
+.container3
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	width: 1406px;
+	height: 54px;
+	margin: 0 auto;
+	background-color: #58B6E8;
+	position: relative;
+}
+
+.header_container3 
+{
+	width: 1920px;
+	height: 54px;
+	background-color: #00728F;
+}
+
+.container3__menu2
+{
+	margin-left: -45px;
+}
+.link2 
+{
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: 700;
+	color: #FFFFFF;
+	margin-left: 135px;
+}
+
+.header_container4 
+{
+	width: 1920px;
+	height: 592px;
+	background-image: url('../img/header/bakron.png');  
+}
+
+.container4 
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	width: 1406px;
+	height: 592px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.container4__blok 
+{
+	background-color: #F2735C;
+	position: absolute; top: 120px; left: 200px;
+}
+.title 
+{
+	width: 347px;
+	font-size: 48px;
+	font-weight: 800;
+	color: #2F3131;
+}
+.text 
+{	
+	width: 269px;
+	font-size: 18px;
+	font-weight: 400;
+    color: #000000;
+    margin-top: 30px;
+}
+
+.container4__forma 
+{   
+	width: 315px;
+	height: 308px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+    position: absolute; top: 120px; left: 920px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.container4__forma input
+{
+  font-family: 'OpenSans';
+  font-size: 14px;
+  font-weight: 700;
+  color: #979797;
+  padding: 15px;
+}
+
+.container4_forma__title 
+{
+	font-size: 24px;
+	font-weight: 800;
+	color: #2F3131;
+	width: 237px;
+	margin-left: 46px;
+}
+.textbox
+{
+	border: 1px solid #979797;
+	border-radius: 8px;
+	transform: rotate(0.01deg);
+	width: 229px;
+	height: 45px;
+	margin-left: 46px;
+	margin-top: 35px;
+}
+.textbox2 
+{
+	border: 1px solid #979797;
+	border-radius: 8px;
+	transform: rotate(0.01deg);
+	width: 229px;
+	height: 45px;
+	margin-left: 46px;
+	margin-top: 18px;
+}
+
+.textbox-text 
+{
+  font-family: 'OpenSans';
+  font-size: 14px;
+  font-weight: 700;
+  color: #979797;
+}
+.textbox-text2
+{
+  font-family: 'OpenSans';
+  font-size: 14px;
+  font-weight: 700;
+  color: #979797;
+}
+
+.container4_forma__button 
+{
+	width: 228px;
+	height: 45px;
+	background-color: #FFCC34;
+	border-radius: 8px;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+	margin: 0 auto;
+	margin-top: 17px;
+}
+.container4_forma_button__text 
+{
+	font-size: 14px;
+	font-weight: 700;
+	color: #2F3131;
+	text-align: center;
+	padding: 10px;
+}
+
+.header_container5 
+{   
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 1393px;
+	height: 133px;
+	margin: 0 auto;
+	margin-top: -90px;
+	background-color: #DBC05E;
+}
+
+.header_container5__blok 
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+.header_container5_blok__img
+{
+	width: 81px;
+	height: 81px;
+	
+}
+.header_container5_blok__text 
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #2F3131;
+	width: 163px;
+	margin-left: 33px;
+}
+
+.header_container5__blok2 
+{
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.header_container5_blok2__img 
+{
+	width: 87px;
+	height: 87px;
+}
+.header_container5_blok2__text 
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #2F3131;
+	width: 139px;
+	margin-left: 33px;
+}
+.header_container5__blok3 
+{
+	display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+.header_container5_blok3__img 
+{
+	width: 65px;
+	height: 87px;
+}
+.header_container5_blok3__text 
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #2F3131;
+	width: 122px;
+	margin-left: 33px;
+}
+.header_container5__blok4 
+{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+.header_container5_blok4__img 
+{
+	width: 87px;
+	height: 82px;
+}
+.header_container5_blok4__text 
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #2F3131;
+	width: 136px;
+	margin-left: 33px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
