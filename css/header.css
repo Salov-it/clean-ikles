@@ -6,6 +6,7 @@
 	width: 1920px;
 	height: 800px;
 	background-color: #BCEB5B;
+	z-index: 2;
 }
 
 .container 
@@ -324,6 +325,7 @@
 	margin: 0 auto;
 	margin-top: -90px;
 	background-color: #DBC05E;
+	z-index: 2;
 }
 
 .header_container5__blok 
