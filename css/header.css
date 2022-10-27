@@ -39,7 +39,9 @@
 .container__Personal-Area 
 {
 	display: flex;
- 	position: absolute; top: 12px; left: 1250px;
+	justify-items: center;
+	align-items: center;
+ 	position: absolute; top: 12px; left: 1220px;
 }
 .container_Personal-Area__img
 {
@@ -47,10 +49,12 @@
 }
 .container_Personal-Area__text 
 {
+  white-space: nowrap;
 	font-family: 'Roboto';
 	font-size: 16px;
 	font-weight: 400;
 	color: #2F3131;
+  
 }
 
 .header_container2 
@@ -259,6 +263,7 @@
 	color: #2F3131;
 	width: 237px;
 	margin-left: 46px;
+	margin-top: 28px;
 }
 .textbox
 {
