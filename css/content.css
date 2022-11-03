@@ -34,7 +34,7 @@ body
 {
 	width: 1406px;
 	height: 775px;
-	background-color: #BCF5E3;
+	background-color: #FFFFFF;
 	display: flex;
 	justify-content: space-around;
 }
@@ -131,7 +131,7 @@ body
 {
 	width: 1920px;
 	height: 590px;
-	background-color: #F5C5B5;
+	background-color: #FFFFFF;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
@@ -143,7 +143,6 @@ body
 {
 	width: 725px;
 	height: 400px;
-	background-color: #EBE8AE;
 	display: flex;
 	align-items: center;
 	position: absolute; top: 190px; left: 122px;
@@ -498,7 +497,6 @@ body
 	flex-wrap: wrap;
 	justify-content: space-between;
 	align-items: center;
-	background-color: #6B9945;
 	margin: 0 auto;
 }
 
@@ -978,7 +976,7 @@ body
 
 	width: 1920px;
 	height: 1237px;
-	background-color: #F5825F;
+	background-color: #FFFFFF;
 	position: absolute; top: 7680px;
 }
 
@@ -1161,7 +1159,6 @@ body
 {	
 	width: 270px;
 	height: 420px;
-	background-color: #46F723;
 	margin-left: 263px;
 	margin-top: 102px;
 }
@@ -1227,6 +1224,7 @@ body
 	width: 244px;
 	font-weight: 400;
 	font-size: 10px;
+	color: #77AAB9;
 	margin-top: 12px;
 }
 
@@ -1235,7 +1233,6 @@ body
 	display: flex;
 	width: 509px;
 	height: 402px;
-	background: #00627E;
 	box-shadow: 0px 4px 20px #004C63;
 	border-radius: 8px;
 	flex-direction: column;
@@ -1393,7 +1390,6 @@ body
 {
 	width: 204px;
 	height: 250px;
-	background-color: #FAD937;
 	display: flex;
 	flex-direction: column;
 	position: absolute; top: 58.66px; left: 264px;
@@ -1426,7 +1422,6 @@ body
 	display:flex ;
 	flex-direction: column;
 	position: absolute; top: 63px; left: 600px;
-	background-color: #E3DC02;
 }
 .container13_blok2__text 
 {
@@ -1441,6 +1436,7 @@ body
 	font-weight: 700;
 	font-size: 14px;
 	color: #FFFFFF;
+	color: rgba(255, 255, 255, 0.8);
 	margin-top: 12px;
 }
 
@@ -1454,7 +1450,6 @@ body
 	display:flex ;
 	flex-direction: column;
 	position: absolute; top: 63px; left: 1045px;
-	background-color: #E3DC02;
 }
 .container13_blok3__text 
 {
@@ -1472,6 +1467,7 @@ body
 	font-weight: 700;
 	font-size: 14px;
 	color: #FFFFFF;
+	color: rgba(255, 255, 255, 0.8);
 	margin-top: 12px;
 }
 
@@ -1480,7 +1476,6 @@ body
 	display:flex ;
 	flex-direction: column;
 	position: absolute; top: 58px; left: 1428px;
-	background-color: #E3DC02;
 }
 .container13_blok4__img 
 {
@@ -1504,6 +1499,7 @@ body
 	font-weight: 700;
 	font-size: 12px;
 	color: #FFFFFF;
+	color: rgba(255, 255, 255, 0.8);
 	margin-top: 12px;
 }
 

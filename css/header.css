@@ -2,7 +2,6 @@
 
 .header 
 {
-
 	width: 1920px;
 	height: 800px;
 	background-color: #BCEB5B;
@@ -16,8 +15,8 @@
 	width: 1406px;
 	height: 54px;
 	margin: 0 auto;
-	background-color: #8BB7F5;
 	position: relative;
+	margin: 0 auto;
 }
 
 .header_container 
@@ -73,7 +72,6 @@
 	width: 1406px;
 	height: 101px;
 	margin: 0 auto;
-	background-color: #EB5BCB;
 	position: relative;
 }
 
@@ -169,7 +167,6 @@
 	width: 1406px;
 	height: 54px;
 	margin: 0 auto;
-	background-color: #58B6E8;
 	position: relative;
 }
 
@@ -180,17 +177,18 @@
 	background-color: #00728F;
 }
 
-.container3__menu2
+.container3__menu2 ul
 {
-	margin-left: -45px;
+	margin-left: -60px;
+	white-space: nowrap;
 }
-.link2 
+.link2 p
 {
 	font-family: 'Roboto';
 	font-size: 20px;
 	font-weight: 700;
 	color: #FFFFFF;
-	margin-left: 135px;
+	margin-left: 125px;
 }
 
 .header_container4 
@@ -214,7 +212,6 @@
 
 .container4__blok 
 {
-	background-color: #F2735C;
 	position: absolute; top: 120px; left: 200px;
 }
 .title 
@@ -329,7 +326,8 @@
 	height: 133px;
 	margin: 0 auto;
 	margin-top: -90px;
-	background-color: #DBC05E;
+	background: #FFFFFF;
+	box-shadow: 0px 2px 40px -15px rgba(47, 49, 49, 0.51);
 	z-index: 2;
 }
 
